@@ -85,7 +85,7 @@ You will use these functions to process sales data from a CSV file called `1kSal
 
 ## Authors
 
-- **Your Name** - [your-username](https://github.com/your-username)
+- **Your Name** - [your-username](https://github.com/XENO2410)
 
 ## License
 
